@@ -8,3 +8,5 @@ PS1="[\e[1;32m\u@\H\e[0m]:\e[0;34m\w\e[0m\$ "
 ```
 
 ```
+
+[zsh prompt generator](https://zsh-prompt-generator.site/)
