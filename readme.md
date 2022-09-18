@@ -39,6 +39,15 @@ NEWLINE=$'/n'
 
 [git info in prompt](https://github.com/zsh-users/zsh/blob/master/Misc/vcs_info-examples)
 
+## npm
+
+[npm-completion](https://docs.npmjs.com/cli/v8/commands/npm-completion)
+
+```zsh
+npm completion >> ~/.bashrc
+npm completion >> ~/.zshrc
+```
+
 ## mac
 
 ```zsh
