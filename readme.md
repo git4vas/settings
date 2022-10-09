@@ -1,5 +1,22 @@
 # Some Useful Templates for Quick Setup
 
+## VSCode
+
+### Extensions
+
+* Git Graph
+* Git blame
+* Git history
+* Remote development
+* Project Manager
+* TODO Tree
+* Live Share Extension Pack
+* Markdown PDF
+* markdownlint
+* Github, Gruvbox, (bearded), (darcula) themes
+
+[markdown-pdf colors](https://github.com/yzane/vscode-markdown-pdf/issues/103)
+
 ## command prompt
 
 ### bash
